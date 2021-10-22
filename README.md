@@ -7,7 +7,7 @@ and cloud-based services that Particle provides to implement various integration
 ## Real-time communication with a mobile app.
 We describe how we create mobile apps that communicate with our embedded systems using MIT App Inventor 2
 and Particle's cloud API.
-## Device logging to a cloud spreadsheet
+## Device logging to a cloud spreadsheet.
 We describe how we use Particle webhooks and Google Apps Script to log sensor data from our embedded
 devices to Google Sheets.
 ## Real-time alarm/alert notification.
@@ -17,5 +17,5 @@ send alarm and alert messages to mobile devices using SMS texting.
 We describe how we use Particle's publish/subscribe mechanism to securely and wirelessly communicate between
 embedded devices.
 ## Integrating to a cloud database.
-We describe how we use Particle webhooks and PHP to provide embedded evices a means to communicate with
+We describe how we use Particle webhooks and PHP to provide embedded devices a means to communicate with
 cloud-based services that use a REST API, including third party services and our own cloud database.
