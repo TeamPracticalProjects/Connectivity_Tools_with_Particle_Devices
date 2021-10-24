@@ -1,5 +1,5 @@
 # Connectivity_Tools_with_Particle_Devices
-Document describing the IoT connectivity tools and techquies that we use with Particle devices.
+Document describing the IoT connectivity tools and techniques that we use with Particle devices.
 
 We (Team Practical Projects) have developed a number of tools and techniques for integrating our
 Internet of Things projects with external apps and services.  We use Particle devices (see particle.io)
