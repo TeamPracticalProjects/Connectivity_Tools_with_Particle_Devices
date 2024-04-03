@@ -1,6 +1,11 @@
 # Connectivity_Tools_with_Particle_Devices
 Document describing the IoT connectivity tools and techniques that we use with Particle devices.
 
+NOTE:  As of April 2024, the Google Apps Script line "EmailApp.sendMail(...);" seems to be treated by
+receiving services as spam.  Changing this line to "GmailApp.sendMail(...);" appears to work.  After
+changing this line in an alarm or alert script, Google will ask you to approve the script using your
+Gmail account.  You must approve it in order to deploy the altered script.
+
 We (Team Practical Projects) have developed a number of tools and techniques for integrating our
 Internet of Things projects with external apps and services.  We use Particle devices (see particle.io)
 and cloud-based services that Particle provides to implement various integration scenarios:
